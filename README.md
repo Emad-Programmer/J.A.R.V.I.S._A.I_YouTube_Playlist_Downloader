@@ -17,6 +17,8 @@ J.A.R.V.I.S. A.I © YouTube Playlist Downloader is a powerful and intuitive open
 ## Getting Started:
 Download the latest release for your operating system and follow our documentation for easy installation and usage.
 
+📥 [Download](https://github.com/Emad-Programmer/J.A.R.V.I.S._A.I_YouTube_Playlist_Downloader/releases)
+
 ## License:
 
 This project is licensed under the E H E License { Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License (CC BY-NC-ND 4.0) }
