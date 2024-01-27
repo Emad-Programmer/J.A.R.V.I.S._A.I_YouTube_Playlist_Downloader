@@ -6,11 +6,11 @@ J.A.R.V.I.S. A.I © YouTube Playlist Downloader is a powerful and intuitive open
 
 ## Key Features:
 
-🚀 Intuitive Interface: User-friendly design inspired by the futuristic J.A.R.V.I.S. A.I.
+💣 Intuitive Interface: User-friendly design inspired by the futuristic J.A.R.V.I.S. A.I.
 
-🎶 Playlist Downloads: Effortlessly download complete YouTube playlists with a single click.
+🖇️ Playlist Downloads: Effortlessly download complete YouTube playlists with a single click.
 
-🌈 Quality Options: Choose from a range of video quality settings.
+🎥 Quality Options: Choose from a range of video quality settings.
 
 💻 Compatibility: Compatible with all versions of Windows for a seamless experience.
 
